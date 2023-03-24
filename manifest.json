@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Chiste",
+  "name": "Chistes",
   "version": "1.0",
-  "description": "First extension",
+  "description": "Si quieres reir solo da click",
   "icons": {
     "132": "icon-132.png"
   },
