@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Chiste",
+  "version": "1.0",
+  "description": "First extension",
+  "icons": {
+    "128": "icon-132.png"
+  },
+  "action": {
+    "default_poput": "popup.html"
+  }
+
+}
