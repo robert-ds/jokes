@@ -1,4 +1,4 @@
 # Jokes
-chrome extension to see jokes randomly
+Chrome extension to see jokes randomly
 
-<img src="jokes.png" alt="Jokes images extension" />
+<img src="jokes.gif" alt="Jokes images extension" />
