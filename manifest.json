@@ -4,10 +4,10 @@
   "version": "1.0",
   "description": "First extension",
   "icons": {
-    "128": "icon-132.png"
+    "132": "icon-132.png"
   },
   "action": {
-    "default_poput": "popup.html"
+    "default_popup": "popup.html"
   }
 
 }
